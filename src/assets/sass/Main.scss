@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+main {
+  padding: 40px 0;
+
+  h1 {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 28px;
+
+    &.small {
+      font-size: 12px;
+      line-height: 20px;
+    }
+  }
+}
+
+.column {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  overflow: hidden;
+
+  .left {
+    width: 50%;
+    float: left;
+  }
+
+  .right {
+    width: 45%;
+    float: right;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .column {
+    .left,
+    .right {
+      width: 100%;
+    }
+
+    .right {
+      float: left;
+    }
+  }
+}
