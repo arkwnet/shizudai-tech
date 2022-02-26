@@ -1,6 +1,7 @@
-# shiztech
+# shizudai-tech
 
-This template should help get you started developing with Vue 3 in Vite.
+ShizudaiTech - Code for Shizuoka University  
+https://shizudai-tech.netlify.app/
 
 ## Recommended IDE Setup
 
