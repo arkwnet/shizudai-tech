@@ -1,5 +1,7 @@
 # shizudai-tech
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a48785a-fac5-46c9-99be-783f0d24b84f/deploy-status)](https://app.netlify.com/sites/shizudai-tech/deploys)
+
 ShizudaiTech - Code for Shizuoka University  
 https://shizudai-tech.netlify.app/
 
