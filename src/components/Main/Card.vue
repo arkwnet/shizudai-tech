@@ -10,13 +10,19 @@
       <p>
         <b>主な機能：</b>
         <br />
-        ・メンテナンス・サーバーダウン中でも、保存した情報を表示
+        ・メンテナンス / サーバーダウン時に閲覧可能
         <br />
-        ・保存した授業連絡などを読み込み無しで表示
+        ・読み込み時間を大幅短縮
         <br />
-        ・レポート・小テストの提出状態をワンクリックで更新
+        ・時間割に未提出の課題を強調表示
         <br />
-        ・ツールを閉じた後も、高速ログインが可能
+        ・バックグラウンドで自動更新
+        <br />
+        ・新着通知をDiscordでお知らせ
+        <br />
+        ・未提出の課題をTodoistで管理
+        <br />
+        ・ライト / ダークテーマに対応
         <br />
         etc...
       </p>
@@ -37,10 +43,15 @@
         <a href="https://xyzyxjp.github.io/GakujoGUI/" target="blank">
           <div>公式サイト</div>
         </a>
-        <a href="https://github.com/xyzyxJP/GakujoGUI" target="blank">
+        <a href="https://github.com/xyzyxJP/GakujoGUI-WPF" target="blank">
           <div>GitHub</div>
         </a>
       </div>
+      <p class="small">
+        <a href="https://github.com/xyzyxJP/GakujoGUI" target="blank">
+          旧GitHub（xyzyxJP/GakujoGUI）
+        </a>
+      </p>
     </div>
     <div class="right">
       <img
